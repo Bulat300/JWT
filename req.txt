@@ -1,0 +1,10 @@
+djangorestframework==3.14.0
+  - django [required: >=3.0, installed: 4.1.7]
+    - asgiref [required: >=3.5.2,<4, installed: 3.6.0]
+    - sqlparse [required: >=0.2.2, installed: 0.4.3]
+  - pytz [required: Any, installed: 2022.7.1]
+pip==21.3.1
+pipdeptree==2.6.0
+PyJWT==2.6.0
+setuptools==60.2.0
+wheel==0.37.1
